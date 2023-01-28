@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3em;
+}
+
+.competition_list{
+    text-align: center;
+    display: block;
+    padding: 32px;
+    width: fit-content;
+    margin: 24px auto 0;
+}
+
+.competition_item{
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #e9ddff;
+    margin: 4px;
+    padding: 32px;
+    border-radius: 32px;
+    transition: 0.2s ease-out;
+}
+
+@media only screen and (max-width: 600px) {
+    .competition_item{
+        display: block;
+        width: 80%;
+    }
+}
+.competition_item:hover{
+    cursor: pointer;
+    border-radius: 16px;
+}
+
+.competition_item .date{
+    color: #444746;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.competition_item .about_item{
+    display: block;
+    text-align: center;
+    background-color: #1e192b;
+    /*color: #E8DEF8;*/
+    color: #EADDFF;
+    width: fit-content;
+    padding: 16px 32px;
+    border-radius: 16px;
+    transition: 0.2s ease-out;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+}
+
+.competition_item .link_item{
+    display: block;
+    text-align: center;
+    background-color: #31111D;
+    color: #FFD8E4;
+    width: fit-content;
+    padding: 16px 32px;
+    border-radius: 16px;
+    transition: 0.2s ease-out;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: #FFE7E7;
+}
+
+.competition_item:hover .about_item{
+    border-radius: 8px;
+}
+
+.competition_item:hover .link_item{
+    border-radius: 8px;
+}
+
+h3{
+    color: #041E49;
+    margin: 0px 0px 8px;
+    font-size: 32px;
+}
+
+i{
+    position: relative;
+    vertical-align: middle;
+}
+
+#star_1{
+    color: rgb(246, 255, 0);
+}
+
+#star_2{
+    color: rgb(255, 242, 0);
+}
+
+#star_3{
+    color: rgb(255, 242, 0);
+}

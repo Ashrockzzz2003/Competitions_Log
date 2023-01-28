@@ -1,0 +1,193 @@
+# Competetions Log
+
+- CICT 2021 IIITDM Kurnool:
+	- Date: 05/12/2021
+	- Type: Individual
+	- Rank: 8
+	- LeaderBoard: `https://www.hackerrank.com/contests/cict-2021/leaderboard`
+	- Participants: 11
+- Google HashCode 2022:
+	- Date: 24/02/2022
+	- Type: Team
+	- Round: Qualification
+	- Rank: 6984
+	- Certificate: `https://drive.google.com/file/d/127DdelCnMCXptms2GP1hNcLe3y05F8eV/view?usp=sharing`
+	- Participants: 10200
+- CodeChef Starters 31:
+	- Date: 23/03/2022
+	- Rating: 1
+	- Type: Individual
+	- Round: Division 4
+	- Rank: 4646
+	- Account: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 7436
+- CodeChef March Long Two 2022:
+	- Date: 28/03/2022
+	- Rating: 1
+	- Type: Individual
+	- Round: Division 4
+	- Rank: 1228
+	- Account: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 9883
+- CodeChef Starters 32:
+	- Date: 30/03/2022
+	- Rating: 1
+	- Type: Individual
+	- Round: Division 4
+	- Rank: 3992
+	- Account: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 7282
+- CodeChef Starters 33:
+	- Date: 06/04/2022
+	- Rating: 1
+	- Type: Individual
+	- Round: Division 4
+	- Rank: 6104
+	- Account: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 8849
+- CodeChef April Long One 2022:
+	- Date: 11/04/2022
+	- Type: Individual
+	- Round: Division 4
+	- Rank: 2571
+	- Account: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 12974
+- Amrita ASCII CSE Survival Guide 2022:
+	- Date: 24/06/2022
+	- Type: Individual
+	- Rank: 1
+	- Leaderboard: `https://www.hackerrank.com/contests/ascii-2022/leaderboard`
+	- Participants: 19
+- CodeChef Starters 52:
+	- Date: 17/08/2022
+	- Rating: 1
+	- Type: Individual
+	- Round: Division 4
+	- Rank: 70
+	- Account: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 13724
+- Google Kickstart 2022:
+	- Date: 21/08/2022
+	- Type: Individual
+	- Round: E
+	- Rank: 6781
+	- Certificate: `https://drive.google.com/file/d/1P6v9JwqoLFIWyHOcUydi50GEFTo6Yep0/view?usp=sharing`
+	- Participants: 10400
+- Newton's Coding Challenge August 2022:
+	- Date: 31/08/2022
+	- Type: Individual
+	- Rank: 1213
+	- Certificate:	`https://d3dyfaf3iutrxo.cloudfront.net/share_image/hod_contest_greeting_card.png`
+	- Participants: 3687
+- CodeChef Starters 55:
+	- Date: 07/09/2022
+	- Rating: 2
+	- Type: Individual
+	- Rank: 741
+	- Certificate: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 18353
+- CodeChef September Long 2022:
+	- Date: 10/09/2022
+	- Rating: 2
+	- Type: Individual
+	- Rank: 2
+	- Certificate: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 4319
+- CodeChef Starters 56:
+	- Date: 14/09/2022
+	- Rating: 3
+	- Type: Individual
+	- Rank: 194
+	- Certificate: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 3780
+- CodeChef September Lunchtime 2022:
+	- Date: 24/09/2022
+	- Rating: 3
+	- Type: Individual
+	- Rank: 596
+	- Certificate: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 1258
+- CodeChef Starters 58:
+	- Date: 28/09/2022
+	- Rating: 3
+	- Type: Individual
+	- Rank: 307
+	- Certificate: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 889
+- CodeChef October Long 2022:
+	- Date: 07/10/2022
+	- Rating: 3
+	- Type: Individual
+	- Rank: 361
+	- Certificate: `https://www.codechef.com/users/ashrock_m13`
+	- Participants: 648
+- CodeForces Round #825 (Div 3):
+	- Date: 10/10/2022
+	- Rating: 1
+	- Type: Individual
+	- Rank: 12214
+	- Certificate: `https://codeforces.com/profile/ashrock_m13`
+	- Participants: 24431
+- CodeForces Round #827 (Div 4):
+	- Date: 13/10/2022
+	- Rating: 1
+	- Type: Individual
+	- Rank: 19790
+	- Certificate: `https://codeforces.com/profile/ashrock_m13`
+	- Participants: 38780
+- Google Kickstart 2022:
+	- Date: 15/10/2022
+	- Type: Individual
+	- Round: G
+	- Rank: 3861
+	- Certificate: `https://drive.google.com/file/d/1Ed6KDUpdqzsas3VNvhGlPmkYVho7RSGt/view?usp=share_link`
+	- Participants: 12250
+- CodeForces Round 137 (Div 2):
+	- Date: 17/10/2022
+	- Rating: 1
+	- Rank: 11591
+	- Type: Individual
+	- Certificate: `https://codeforces.com/profile/ashrock_m13`
+	- Participants: 33261
+- Google Kickstart 2022:
+	- Date: 12/11/2022
+	- Type: Individual
+	- Round: H
+	- Rank: 2555
+	- Certificate: `https://drive.google.com/file/d/1eiYp8sc8D8K71-6Rrslzr90duT4w4BhH/view?usp=share_link`
+	- Participants: 5403
+- CodeForces Round #834 (Div 3):
+	- Date: 18/11/2022
+	- Rating: 1
+	- Rank: 6814
+	- Type: Individual
+	- Certificate: `https://codeforces.com/profile/ashrock_m13`
+	- Participants: 36739
+- CodeForces Round #836 (Div 2):
+	- Date: 25/11/2022
+	- Rating: 1
+	- Rank: 11024
+	- Type: Individual
+	- Certificate: `https://codeforces.com/profile/ashrock_m13`
+	- Participants: 29491
+- CodeForces Round 141 (Div 2):
+	- Date: 08/01/2023
+	- Rating: 1
+	- Rank: 13217
+	- Type: Individual
+	- Certificate: `https://codeforces.com/profile/ashrock_m13`
+	- Participants: 33211
+- CodeForces Round #846 (Div 2):
+	- Date: 25/01/2023
+	- Rating: 1
+	- Rank: 10369
+	- Type: Individual
+	- Certificate: `https://codeforces.com/profile/ashrock_m13`
+	- Participants: 21716
+- CodeForces Round #847 (Div 3):
+	- Date: 27/01/2023
+	- Rating: 1
+	- Rank: 14874
+	- Type: Individual
+	- Certificate: `https://codeforces.com/profile/ashrock_m13`
+	- Participants: 26503
